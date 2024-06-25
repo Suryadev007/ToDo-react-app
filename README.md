@@ -5,7 +5,7 @@
  https://nodejs.org/en/download/package-manager
 ### Step 1: Clone the repo on your device
 ```
-https://github.com/Suryadev007/ToDo-react-app.git
+git clone https://github.com/Suryadev007/ToDo-react-app.git
 ```
 ### Step 2: Change the directory
 ```
