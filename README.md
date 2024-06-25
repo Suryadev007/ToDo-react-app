@@ -2,7 +2,7 @@
 ## pre-requisite
 - node installed on your device
 - if not first install node from
-https://nodejs.org/en/download/package-manager
+ https://nodejs.org/en/download/package-manager
 ### Step 1: Clone the repo on your device
 ```
 https://github.com/Suryadev007/ToDo-react-app.git
