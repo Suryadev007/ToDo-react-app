@@ -1,4 +1,4 @@
-# To run this TO-Do App pn your device
+# To run this TO-Do App on your device
 ## pre-requisite
 - node installed on your device
 - if not first install node from
