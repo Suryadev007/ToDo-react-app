@@ -19,7 +19,7 @@ npm i
 ```
 npm start
 ```
-+ To-do react app now running on your localhost
+- To-do react app now running on your localhost
 
 
 
